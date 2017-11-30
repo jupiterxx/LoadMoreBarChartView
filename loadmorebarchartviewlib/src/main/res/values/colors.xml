@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="barChartBarColor">#9391FC</color>
+    <color name="barChartLineColor">#F1F3F5</color>
+    <color name="barChartTextNormalColor">#A8B4C4</color>
+    <color name="barChartTextSelectedColor">#55606F</color>
+</resources>

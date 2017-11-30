@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoadMoreBarChartView.iml" filepath="$PROJECT_DIR$/LoadMoreBarChartView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadmorebarchartviewlib/loadmorebarchartviewlib.iml" filepath="$PROJECT_DIR$/loadmorebarchartviewlib/loadmorebarchartviewlib.iml" />
+    </modules>
+  </component>
+</project>
